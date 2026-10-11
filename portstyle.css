@@ -241,12 +241,12 @@ section{
 	width:20vw;
 	border-radius: 1rem; 
 }
+.projects-card a{
+	color: inherit;
+}
 .projects-card:hover .btn{
 	border: 2px solid white;
 	color: white;
-}
-.projects-card a{
-	color:inherit;
 }
 .projects-card:hover .btn:hover{
 	border: 2px solid white;
