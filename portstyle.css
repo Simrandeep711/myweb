@@ -245,6 +245,9 @@ section{
 	border: 2px solid white;
 	color: white;
 }
+.projects-card a{
+	color: inherit;
+}
 .projects-card:hover .btn:hover{
 	border: 2px solid white;
 	background-color:white;
